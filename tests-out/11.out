@@ -1,0 +1,489 @@
+Execution trace with RR:
+Job 0 ran for: 3
+Job 1 ran for: 3
+Job 2 ran for: 1
+Job 3 ran for: 3
+Job 4 ran for: 3
+Job 5 ran for: 3
+Job 6 ran for: 3
+Job 7 ran for: 3
+Job 8 ran for: 3
+Job 9 ran for: 3
+Job 10 ran for: 1
+Job 11 ran for: 3
+Job 12 ran for: 3
+Job 13 ran for: 3
+Job 14 ran for: 3
+Job 15 ran for: 3
+Job 16 ran for: 3
+Job 17 ran for: 3
+Job 18 ran for: 3
+Job 19 ran for: 3
+Job 20 ran for: 3
+Job 21 ran for: 3
+Job 22 ran for: 3
+Job 23 ran for: 3
+Job 24 ran for: 3
+Job 25 ran for: 2
+Job 26 ran for: 3
+Job 27 ran for: 3
+Job 28 ran for: 3
+Job 29 ran for: 3
+Job 30 ran for: 3
+Job 31 ran for: 3
+Job 32 ran for: 3
+Job 33 ran for: 3
+Job 34 ran for: 3
+Job 35 ran for: 3
+Job 36 ran for: 3
+Job 37 ran for: 3
+Job 38 ran for: 3
+Job 39 ran for: 3
+Job 40 ran for: 2
+Job 41 ran for: 3
+Job 42 ran for: 3
+Job 43 ran for: 3
+Job 44 ran for: 2
+Job 45 ran for: 3
+Job 46 ran for: 3
+Job 47 ran for: 3
+Job 48 ran for: 3
+Job 49 ran for: 2
+Job 50 ran for: 3
+Job 51 ran for: 3
+Job 52 ran for: 3
+Job 53 ran for: 3
+Job 54 ran for: 3
+Job 55 ran for: 3
+Job 56 ran for: 3
+Job 57 ran for: 3
+Job 58 ran for: 2
+Job 59 ran for: 1
+Job 60 ran for: 3
+Job 61 ran for: 3
+Job 62 ran for: 3
+Job 63 ran for: 3
+Job 64 ran for: 3
+Job 65 ran for: 3
+Job 66 ran for: 3
+Job 67 ran for: 1
+Job 68 ran for: 3
+Job 69 ran for: 3
+Job 70 ran for: 3
+Job 71 ran for: 3
+Job 72 ran for: 3
+Job 73 ran for: 3
+Job 74 ran for: 3
+Job 75 ran for: 3
+Job 76 ran for: 3
+Job 77 ran for: 3
+Job 78 ran for: 3
+Job 79 ran for: 3
+Job 80 ran for: 2
+Job 81 ran for: 3
+Job 82 ran for: 3
+Job 83 ran for: 3
+Job 84 ran for: 3
+Job 85 ran for: 3
+Job 86 ran for: 3
+Job 87 ran for: 3
+Job 88 ran for: 3
+Job 89 ran for: 3
+Job 90 ran for: 3
+Job 91 ran for: 3
+Job 92 ran for: 1
+Job 93 ran for: 3
+Job 94 ran for: 3
+Job 95 ran for: 3
+Job 96 ran for: 3
+Job 97 ran for: 3
+Job 98 ran for: 3
+Job 99 ran for: 3
+Job 0 ran for: 3
+Job 1 ran for: 3
+Job 3 ran for: 3
+Job 4 ran for: 3
+Job 5 ran for: 3
+Job 7 ran for: 3
+Job 8 ran for: 3
+Job 9 ran for: 3
+Job 11 ran for: 3
+Job 13 ran for: 3
+Job 14 ran for: 3
+Job 15 ran for: 3
+Job 16 ran for: 3
+Job 17 ran for: 1
+Job 18 ran for: 3
+Job 20 ran for: 3
+Job 22 ran for: 3
+Job 23 ran for: 3
+Job 24 ran for: 3
+Job 26 ran for: 3
+Job 27 ran for: 3
+Job 28 ran for: 3
+Job 29 ran for: 3
+Job 30 ran for: 2
+Job 31 ran for: 1
+Job 32 ran for: 1
+Job 33 ran for: 3
+Job 34 ran for: 3
+Job 35 ran for: 3
+Job 36 ran for: 3
+Job 37 ran for: 3
+Job 38 ran for: 2
+Job 39 ran for: 3
+Job 41 ran for: 3
+Job 42 ran for: 3
+Job 43 ran for: 3
+Job 45 ran for: 3
+Job 47 ran for: 3
+Job 48 ran for: 3
+Job 50 ran for: 3
+Job 51 ran for: 3
+Job 52 ran for: 3
+Job 53 ran for: 3
+Job 54 ran for: 3
+Job 55 ran for: 3
+Job 56 ran for: 3
+Job 57 ran for: 3
+Job 61 ran for: 3
+Job 62 ran for: 3
+Job 63 ran for: 3
+Job 65 ran for: 3
+Job 66 ran for: 1
+Job 68 ran for: 3
+Job 69 ran for: 3
+Job 70 ran for: 3
+Job 71 ran for: 3
+Job 72 ran for: 3
+Job 73 ran for: 1
+Job 74 ran for: 1
+Job 75 ran for: 3
+Job 76 ran for: 3
+Job 77 ran for: 1
+Job 78 ran for: 3
+Job 79 ran for: 3
+Job 81 ran for: 1
+Job 82 ran for: 3
+Job 83 ran for: 2
+Job 84 ran for: 3
+Job 85 ran for: 3
+Job 86 ran for: 3
+Job 87 ran for: 3
+Job 88 ran for: 2
+Job 89 ran for: 3
+Job 90 ran for: 3
+Job 91 ran for: 3
+Job 93 ran for: 1
+Job 94 ran for: 3
+Job 95 ran for: 3
+Job 96 ran for: 3
+Job 97 ran for: 3
+Job 98 ran for: 3
+Job 99 ran for: 3
+Job 0 ran for: 3
+Job 1 ran for: 3
+Job 4 ran for: 3
+Job 5 ran for: 3
+Job 7 ran for: 1
+Job 8 ran for: 3
+Job 9 ran for: 3
+Job 11 ran for: 3
+Job 13 ran for: 3
+Job 14 ran for: 3
+Job 15 ran for: 3
+Job 16 ran for: 3
+Job 18 ran for: 3
+Job 20 ran for: 3
+Job 22 ran for: 3
+Job 23 ran for: 3
+Job 24 ran for: 3
+Job 26 ran for: 3
+Job 27 ran for: 3
+Job 28 ran for: 1
+Job 29 ran for: 3
+Job 33 ran for: 1
+Job 34 ran for: 3
+Job 35 ran for: 3
+Job 36 ran for: 3
+Job 37 ran for: 3
+Job 39 ran for: 3
+Job 41 ran for: 3
+Job 42 ran for: 3
+Job 43 ran for: 3
+Job 45 ran for: 3
+Job 47 ran for: 3
+Job 48 ran for: 3
+Job 50 ran for: 3
+Job 51 ran for: 3
+Job 52 ran for: 1
+Job 53 ran for: 3
+Job 55 ran for: 3
+Job 56 ran for: 3
+Job 57 ran for: 3
+Job 61 ran for: 2
+Job 62 ran for: 3
+Job 63 ran for: 3
+Job 65 ran for: 3
+Job 68 ran for: 3
+Job 69 ran for: 3
+Job 70 ran for: 3
+Job 71 ran for: 3
+Job 72 ran for: 3
+Job 75 ran for: 3
+Job 76 ran for: 3
+Job 78 ran for: 1
+Job 79 ran for: 3
+Job 82 ran for: 3
+Job 84 ran for: 3
+Job 85 ran for: 3
+Job 86 ran for: 3
+Job 87 ran for: 1
+Job 89 ran for: 3
+Job 90 ran for: 3
+Job 91 ran for: 3
+Job 94 ran for: 3
+Job 95 ran for: 1
+Job 96 ran for: 3
+Job 97 ran for: 1
+Job 98 ran for: 2
+Job 99 ran for: 3
+Job 0 ran for: 1
+Job 1 ran for: 3
+Job 4 ran for: 3
+Job 5 ran for: 3
+Job 8 ran for: 3
+Job 11 ran for: 3
+Job 13 ran for: 3
+Job 14 ran for: 3
+Job 15 ran for: 1
+Job 16 ran for: 3
+Job 18 ran for: 3
+Job 20 ran for: 3
+Job 22 ran for: 2
+Job 23 ran for: 3
+Job 24 ran for: 3
+Job 26 ran for: 3
+Job 27 ran for: 3
+Job 29 ran for: 3
+Job 34 ran for: 3
+Job 35 ran for: 1
+Job 36 ran for: 3
+Job 37 ran for: 3
+Job 41 ran for: 3
+Job 42 ran for: 3
+Job 43 ran for: 3
+Job 45 ran for: 3
+Job 47 ran for: 3
+Job 48 ran for: 1
+Job 50 ran for: 3
+Job 51 ran for: 3
+Job 53 ran for: 3
+Job 55 ran for: 2
+Job 56 ran for: 3
+Job 57 ran for: 3
+Job 62 ran for: 3
+Job 63 ran for: 3
+Job 65 ran for: 3
+Job 68 ran for: 1
+Job 69 ran for: 3
+Job 70 ran for: 3
+Job 72 ran for: 3
+Job 75 ran for: 3
+Job 76 ran for: 3
+Job 79 ran for: 3
+Job 82 ran for: 3
+Job 86 ran for: 1
+Job 89 ran for: 3
+Job 90 ran for: 3
+Job 91 ran for: 3
+Job 94 ran for: 3
+Job 96 ran for: 3
+Job 99 ran for: 3
+Job 1 ran for: 3
+Job 4 ran for: 3
+Job 5 ran for: 2
+Job 8 ran for: 3
+Job 11 ran for: 3
+Job 13 ran for: 1
+Job 14 ran for: 1
+Job 16 ran for: 3
+Job 18 ran for: 1
+Job 20 ran for: 3
+Job 23 ran for: 3
+Job 24 ran for: 3
+Job 26 ran for: 3
+Job 27 ran for: 3
+Job 29 ran for: 3
+Job 34 ran for: 3
+Job 36 ran for: 3
+Job 37 ran for: 3
+Job 42 ran for: 1
+Job 45 ran for: 1
+Job 47 ran for: 3
+Job 50 ran for: 3
+Job 51 ran for: 3
+Job 53 ran for: 3
+Job 57 ran for: 3
+Job 62 ran for: 3
+Job 63 ran for: 3
+Job 65 ran for: 3
+Job 69 ran for: 3
+Job 70 ran for: 3
+Job 72 ran for: 3
+Job 75 ran for: 3
+Job 76 ran for: 2
+Job 79 ran for: 3
+Job 82 ran for: 3
+Job 89 ran for: 3
+Job 90 ran for: 3
+Job 91 ran for: 3
+Job 94 ran for: 3
+Job 96 ran for: 3
+Job 99 ran for: 2
+Job 1 ran for: 3
+Job 4 ran for: 3
+Job 8 ran for: 3
+Job 11 ran for: 3
+Job 16 ran for: 3
+Job 20 ran for: 3
+Job 23 ran for: 2
+Job 24 ran for: 3
+Job 26 ran for: 3
+Job 27 ran for: 2
+Job 29 ran for: 1
+Job 34 ran for: 2
+Job 36 ran for: 3
+Job 37 ran for: 3
+Job 47 ran for: 2
+Job 50 ran for: 3
+Job 51 ran for: 3
+Job 53 ran for: 3
+Job 57 ran for: 1
+Job 62 ran for: 1
+Job 69 ran for: 3
+Job 70 ran for: 3
+Job 72 ran for: 1
+Job 75 ran for: 3
+Job 79 ran for: 1
+Job 82 ran for: 2
+Job 89 ran for: 2
+Job 90 ran for: 1
+Job 91 ran for: 3
+Job 94 ran for: 3
+Job 96 ran for: 1
+Job 4 ran for: 2
+Job 16 ran for: 2
+Job 20 ran for: 2
+Job 36 ran for: 2
+Job 50 ran for: 2
+Job 51 ran for: 1
+Job 53 ran for: 1
+Job 69 ran for: 1
+Job 70 ran for: 1
+Job 75 ran for: 2
+Job 91 ran for: 1
+End of execution with RR.
+Begin analyzing RR:
+Job 0 -- Response time: 0  Turnaround: 692  Wait: 682
+Job 1 -- Response time: 3  Turnaround: 946  Wait: 928
+Job 2 -- Response time: 6  Turnaround: 7  Wait: 6
+Job 3 -- Response time: 7  Turnaround: 293  Wait: 287
+Job 4 -- Response time: 10  Turnaround: 1018  Wait: 998
+Job 5 -- Response time: 13  Turnaround: 841  Wait: 827
+Job 6 -- Response time: 16  Turnaround: 19  Wait: 16
+Job 7 -- Response time: 19  Turnaround: 521  Wait: 514
+Job 8 -- Response time: 22  Turnaround: 952  Wait: 934
+Job 9 -- Response time: 25  Turnaround: 527  Wait: 518
+Job 10 -- Response time: 28  Turnaround: 29  Wait: 28
+Job 11 -- Response time: 29  Turnaround: 955  Wait: 937
+Job 12 -- Response time: 32  Turnaround: 35  Wait: 32
+Job 13 -- Response time: 35  Turnaround: 848  Wait: 835
+Job 14 -- Response time: 38  Turnaround: 849  Wait: 836
+Job 15 -- Response time: 41  Turnaround: 714  Wait: 704
+Job 16 -- Response time: 44  Turnaround: 1020  Wait: 1000
+Job 17 -- Response time: 47  Turnaround: 324  Wait: 320
+Job 18 -- Response time: 50  Turnaround: 853  Wait: 840
+Job 19 -- Response time: 53  Turnaround: 56  Wait: 53
+Job 20 -- Response time: 56  Turnaround: 1022  Wait: 1002
+Job 21 -- Response time: 59  Turnaround: 62  Wait: 59
+Job 22 -- Response time: 62  Turnaround: 725  Wait: 714
+Job 23 -- Response time: 65  Turnaround: 963  Wait: 946
+Job 24 -- Response time: 68  Turnaround: 966  Wait: 948
+Job 25 -- Response time: 71  Turnaround: 73  Wait: 71
+Job 26 -- Response time: 73  Turnaround: 969  Wait: 951
+Job 27 -- Response time: 76  Turnaround: 971  Wait: 954
+Job 28 -- Response time: 79  Turnaround: 564  Wait: 557
+Job 29 -- Response time: 82  Turnaround: 972  Wait: 956
+Job 30 -- Response time: 85  Turnaround: 353  Wait: 348
+Job 31 -- Response time: 88  Turnaround: 354  Wait: 350
+Job 32 -- Response time: 91  Turnaround: 355  Wait: 351
+Job 33 -- Response time: 94  Turnaround: 568  Wait: 561
+Job 34 -- Response time: 97  Turnaround: 974  Wait: 957
+Job 35 -- Response time: 100  Turnaround: 744  Wait: 734
+Job 36 -- Response time: 103  Turnaround: 1024  Wait: 1004
+Job 37 -- Response time: 106  Turnaround: 980  Wait: 962
+Job 38 -- Response time: 109  Turnaround: 372  Wait: 367
+Job 39 -- Response time: 112  Turnaround: 583  Wait: 574
+Job 40 -- Response time: 115  Turnaround: 117  Wait: 115
+Job 41 -- Response time: 117  Turnaround: 753  Wait: 741
+Job 42 -- Response time: 120  Turnaround: 881  Wait: 868
+Job 43 -- Response time: 123  Turnaround: 759  Wait: 747
+Job 44 -- Response time: 126  Turnaround: 128  Wait: 126
+Job 45 -- Response time: 128  Turnaround: 882  Wait: 869
+Job 46 -- Response time: 131  Turnaround: 134  Wait: 131
+Job 47 -- Response time: 134  Turnaround: 982  Wait: 965
+Job 48 -- Response time: 137  Turnaround: 766  Wait: 756
+Job 49 -- Response time: 140  Turnaround: 142  Wait: 140
+Job 50 -- Response time: 142  Turnaround: 1026  Wait: 1006
+Job 51 -- Response time: 145  Turnaround: 1027  Wait: 1008
+Job 52 -- Response time: 148  Turnaround: 608  Wait: 601
+Job 53 -- Response time: 151  Turnaround: 1028  Wait: 1009
+Job 54 -- Response time: 154  Turnaround: 408  Wait: 402
+Job 55 -- Response time: 157  Turnaround: 777  Wait: 766
+Job 56 -- Response time: 160  Turnaround: 780  Wait: 768
+Job 57 -- Response time: 163  Turnaround: 992  Wait: 976
+Job 58 -- Response time: 166  Turnaround: 168  Wait: 166
+Job 59 -- Response time: 168  Turnaround: 169  Wait: 168
+Job 60 -- Response time: 169  Turnaround: 172  Wait: 169
+Job 61 -- Response time: 172  Turnaround: 622  Wait: 614
+Job 62 -- Response time: 175  Turnaround: 993  Wait: 977
+Job 63 -- Response time: 178  Turnaround: 903  Wait: 888
+Job 64 -- Response time: 181  Turnaround: 184  Wait: 181
+Job 65 -- Response time: 184  Turnaround: 906  Wait: 891
+Job 66 -- Response time: 187  Turnaround: 430  Wait: 426
+Job 67 -- Response time: 190  Turnaround: 191  Wait: 190
+Job 68 -- Response time: 191  Turnaround: 793  Wait: 783
+Job 69 -- Response time: 194  Turnaround: 1029  Wait: 1010
+Job 70 -- Response time: 197  Turnaround: 1030  Wait: 1011
+Job 71 -- Response time: 200  Turnaround: 643  Wait: 634
+Job 72 -- Response time: 203  Turnaround: 1000  Wait: 984
+Job 73 -- Response time: 206  Turnaround: 446  Wait: 442
+Job 74 -- Response time: 209  Turnaround: 447  Wait: 443
+Job 75 -- Response time: 212  Turnaround: 1032  Wait: 1012
+Job 76 -- Response time: 215  Turnaround: 920  Wait: 906
+Job 77 -- Response time: 218  Turnaround: 454  Wait: 450
+Job 78 -- Response time: 221  Turnaround: 653  Wait: 646
+Job 79 -- Response time: 224  Turnaround: 1004  Wait: 988
+Job 80 -- Response time: 227  Turnaround: 229  Wait: 227
+Job 81 -- Response time: 229  Turnaround: 461  Wait: 457
+Job 82 -- Response time: 232  Turnaround: 1006  Wait: 989
+Job 83 -- Response time: 235  Turnaround: 466  Wait: 461
+Job 84 -- Response time: 238  Turnaround: 662  Wait: 653
+Job 85 -- Response time: 241  Turnaround: 665  Wait: 656
+Job 86 -- Response time: 244  Turnaround: 815  Wait: 805
+Job 87 -- Response time: 247  Turnaround: 669  Wait: 662
+Job 88 -- Response time: 250  Turnaround: 480  Wait: 475
+Job 89 -- Response time: 253  Turnaround: 1008  Wait: 991
+Job 90 -- Response time: 256  Turnaround: 1009  Wait: 993
+Job 91 -- Response time: 259  Turnaround: 1033  Wait: 1014
+Job 92 -- Response time: 262  Turnaround: 263  Wait: 262
+Job 93 -- Response time: 263  Turnaround: 490  Wait: 486
+Job 94 -- Response time: 266  Turnaround: 1015  Wait: 997
+Job 95 -- Response time: 269  Turnaround: 682  Wait: 675
+Job 96 -- Response time: 272  Turnaround: 1016  Wait: 1000
+Job 97 -- Response time: 275  Turnaround: 686  Wait: 679
+Job 98 -- Response time: 278  Turnaround: 688  Wait: 680
+Job 99 -- Response time: 281  Turnaround: 943  Wait: 929
+Average -- Response: 140.22  Turnaround 657.58  Wait 647.25
+End analyzing RR.

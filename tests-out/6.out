@@ -1,0 +1,45 @@
+Execution trace with SJF:
+Job 2 ran for: 1
+Job 13 ran for: 2
+Job 14 ran for: 4
+Job 4 ran for: 5
+Job 12 ran for: 5
+Job 1 ran for: 6
+Job 5 ran for: 6
+Job 6 ran for: 8
+Job 9 ran for: 10
+Job 0 ran for: 11
+Job 16 ran for: 12
+Job 7 ran for: 13
+Job 3 ran for: 14
+Job 19 ran for: 14
+Job 15 ran for: 17
+Job 17 ran for: 19
+Job 8 ran for: 20
+Job 10 ran for: 20
+Job 11 ran for: 20
+Job 18 ran for: 20
+End of execution with SJF.
+Begin analyzing SJF:
+Job 2 -- Response time: 0  Turnaround: 1  Wait: 0
+Job 13 -- Response time: 1  Turnaround: 3  Wait: 1
+Job 14 -- Response time: 3  Turnaround: 7  Wait: 3
+Job 4 -- Response time: 7  Turnaround: 12  Wait: 7
+Job 12 -- Response time: 12  Turnaround: 17  Wait: 12
+Job 1 -- Response time: 17  Turnaround: 23  Wait: 17
+Job 5 -- Response time: 23  Turnaround: 29  Wait: 23
+Job 6 -- Response time: 29  Turnaround: 37  Wait: 29
+Job 9 -- Response time: 37  Turnaround: 47  Wait: 37
+Job 0 -- Response time: 47  Turnaround: 58  Wait: 47
+Job 16 -- Response time: 58  Turnaround: 70  Wait: 58
+Job 7 -- Response time: 70  Turnaround: 83  Wait: 70
+Job 3 -- Response time: 83  Turnaround: 97  Wait: 83
+Job 19 -- Response time: 97  Turnaround: 111  Wait: 97
+Job 15 -- Response time: 111  Turnaround: 128  Wait: 111
+Job 17 -- Response time: 128  Turnaround: 147  Wait: 128
+Job 8 -- Response time: 147  Turnaround: 167  Wait: 147
+Job 10 -- Response time: 167  Turnaround: 187  Wait: 167
+Job 11 -- Response time: 187  Turnaround: 207  Wait: 187
+Job 18 -- Response time: 207  Turnaround: 227  Wait: 207
+Average -- Response: 71.55  Turnaround 82.90  Wait 71.55
+End analyzing SJF.
